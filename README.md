@@ -1,4 +1,4 @@
-A simple and interactive weather application that allows users to search for any city and view real-time weather information. The app displays temperature, humidity, and wind speed in a clean layout.
+A simple and interactive weather application that allows users to search for any city and view real-time weather information. The app displays certain weather parameters in a clean layout.
 
 TECH STACK :-
 
